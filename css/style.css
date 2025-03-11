@@ -23,4 +23,15 @@ h1 {
     height: 100px;
 }
 
+#purplebox {
+    padding: 16px;
+    background-color: rgb(157, 82, 172);
+    height: 100px;
+}
+
+#pinkbox {
+    padding: 16px;
+    background-color: rgb(245, 195, 255);
+    height: 100px;
+}
 
