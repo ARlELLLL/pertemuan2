@@ -1,0 +1,26 @@
+p {
+    font-size: 150%;
+}
+
+h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 200%;
+}
+
+#bluebox {
+    padding: 16px;
+    background-color: rgb(132, 158, 255);
+    height: 100px;
+}
+#greenbox {
+    padding: 16px;
+    background-color: rgb(153, 255, 149);
+    height: 100px;
+}
+#redbox {
+    padding: 16px;
+    background-color: rgb(255, 149, 149);
+    height: 100px;
+}
+
+
